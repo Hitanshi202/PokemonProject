@@ -47,11 +47,14 @@ cd PokemonProject
 
 --------
 **Configure DB connection**
-Properties
-****spring.datasource.url=jdbc:mysql://localhost:3306/pokemon_db**
-**spring.datasource.username=root**
-**spring.datasource.password=yourpassword**
-**spring.jpa.hibernate.ddl-auto=update**
+spring.datasource.url=jdbc:mysql://localhost:3306/pokemon_db
+
+spring.datasource.username=root
+
+spring.datasource.password=yourpassword
+
+spring.jpa.hibernate.ddl-auto=update
+
 -----------
 
 Let me know if you'd like this saved as a downloadable `README.md` file or need an example API request section added too.
