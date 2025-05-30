@@ -47,6 +47,7 @@ cd PokemonProject
 
 --------
 **Configure DB connection**
+
 spring.datasource.url=jdbc:mysql://localhost:3306/pokemon_db
 
 spring.datasource.username=root
