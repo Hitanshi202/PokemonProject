@@ -41,12 +41,10 @@ Here’s a quick rundown of the main dependencies and what they’re doing:
   Helps in parsing and asserting values from JSON during test cases.
 
 ---
-
-**Clone this repo**
-
-```bash
-git clone https://github.com/your-username/PokemonProject.git
+clone this repo
+**git clone https://github.com/your-username/PokemonProject.git
 cd PokemonProject
+**
 --------
 **Configure DB connection**
 
