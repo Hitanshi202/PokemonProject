@@ -41,19 +41,19 @@ Here’s a quick rundown of the main dependencies and what they’re doing:
   Helps in parsing and asserting values from JSON during test cases.
 
 ---
-clone this repo
-**git clone https://github.com/your-username/PokemonProject.git
+**clone this repo**
+git clone https://github.com/your-username/PokemonProject.git
 cd PokemonProject
-**
+
 --------
 **Configure DB connection**
 
-**Properties**
-spring.datasource.url=jdbc:mysql://localhost:3306/pokemon_db
+Properties
+**spring.datasource.url=jdbc:mysql://localhost:3306/pokemon_db
 spring.datasource.username=root
 spring.datasource.password=yourpassword
 spring.jpa.hibernate.ddl-auto=update
------------
+**-----------
 
 Let me know if you'd like this saved as a downloadable `README.md` file or need an example API request section added too.
 
