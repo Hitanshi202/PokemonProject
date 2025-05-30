@@ -42,16 +42,15 @@ Here’s a quick rundown of the main dependencies and what they’re doing:
 
 ---
 
-## 🛠️ How to run it locally
-
-1. **Clone this repo**
+**Clone this repo**
 
 ```bash
 git clone https://github.com/your-username/PokemonProject.git
 cd PokemonProject
 --------
+**Configure DB connection**
 
-**properties
+**Properties**
 spring.datasource.url=jdbc:mysql://localhost:3306/pokemon_db
 spring.datasource.username=root
 spring.datasource.password=yourpassword
